@@ -368,7 +368,7 @@ header {
 
 /* Value Proposition */
 .value-section {
-    background: linear-gradient(to bottom, rgba(30, 30, 30, 0.7), rgba(10, 10, 10, 0.95));
+   
     padding: 8rem 0;
     position: relative;
 }
